@@ -12,6 +12,7 @@ https://pins-share.com/
 ### 使用技術
 - フロントエンド：Next.js（React／TypeScript）
 - バックエンド：AWS（Lambda／Go／API Gateway／DynamoDB）
+- リポジトリ：https://github.com/kzk-dev00/pins
 
 <!--
 **kzk-dev00/kzk-dev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

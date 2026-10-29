@@ -10,8 +10,8 @@ https://pins-share.com/
 ぜひ使ってみてください
 
 ### 使用技術
-- フロントエンド：Nuxt（Vue 3）
-- バックエンド：AWS（Lambda / API Gateway / DynamoDB など）
+- フロントエンド：Next.js（React／TypeScript）
+- バックエンド：AWS（Lambda／Go／API Gateway／DynamoDB）
 
 <!--
 **kzk-dev00/kzk-dev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
